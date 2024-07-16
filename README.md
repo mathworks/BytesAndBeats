@@ -49,9 +49,11 @@ Each module has its own Instructor Guide in the form of a Live Script or Word do
 _Tip: To effectively navigate the Instructor Guides, you can make use of the Table of Contents at the top._
 
 #### Student Live Scripts ####
-While you use the Instructor Guides to direct the modules, students will be opening Live Scripts through the File Explorer or via the command line , as shown below:
+While you use the Instructor Guides to direct the modules, students will be opening Live Scripts through the File Explorer or Command Window, as shown below:
 
-![Command Window Demo](/uploads/b36f2e649e83023e19b242bc930c1435/image.png)
+ ```js
+ >> open Vectors_Variables_Functions.mlx
+``` 
 
 They will follow along with these and are not given a set of Instructor Guides.
 
