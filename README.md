@@ -1,4 +1,4 @@
-# Bytes and Beats [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/BytesAndBeats)
+# Bytes and Beats<br /> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/BytesAndBeats)
 
 ## Description ##
 With Bytes and Beats, students will use MATLAB&reg;, the programming platform used by scientists and engineers, to turn if-statements, for-loops, and functions into rhythms, melodies, and harmonies. Working with friends, they will compose and visualize their own music and invent their own symphonic creations. 
