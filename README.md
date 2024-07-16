@@ -13,7 +13,7 @@ https://www.mathworks.com/help/matlab/live-scripts-and-functions.html
 
 _Note: Modules are also available in Word document format_
 
-### How to Use this Content ###
+## How to Use this Content ##
 Modules are numbered to show a recommended flow, but do not necessarily need to be completed sequentially. You may choose to complete whichever modules fit the experience level of your students. 
 This means that modules can be leveraged as:
 - Individual lessons/activities
