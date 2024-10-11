@@ -84,7 +84,7 @@ From there, you can get started by opening the modules within the 'instructor_re
 The instructions inside these will guide you through the exercises and activities.
 
 ## Use the standalone Music Mixer App
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/BytesAndBeats&file=musicmixer_mlo.mlapp)<br />
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/BytesAndBeats&file=musicmixer_mlo.mlapp)
 ![image](https://github.com/user-attachments/assets/e05ed9ae-a1cd-4520-b3fb-293887c19462)
 
 
