@@ -68,7 +68,7 @@ _These instructions are for both instructors and students._
 Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/BytesAndBeats) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see the file directory within the Current Folder pane.
 
 #### On Desktop ####
-Donwload of clone this repository. Open MATLAB and navigate to the folder containing the repository.
+Download of clone this repository. Open MATLAB and navigate to the folder containing the repository.
 
 #### Installing the Toolbox and Setting Up ####
 Within the Command Window, next to the >> symbol, enter the following:
