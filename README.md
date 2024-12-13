@@ -11,7 +11,7 @@ Within this content, MATLAB Live Scripts (".MLX") are employed, which are intera
 https://www.mathworks.com/help/matlab/matlab_prog/what-is-a-live-script-or-function.html
 https://www.mathworks.com/help/matlab/live-scripts-and-functions.html
 
-_Note: Modules are also available in Word document format_
+_Note: Modules are also available in PDF document format_
 
 ## How to Use this Content ##
 Modules are numbered to show a recommended flow, but do not necessarily need to be completed sequentially. You may choose to complete whichever modules fit the experience level of your students. 
