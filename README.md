@@ -45,7 +45,7 @@ It is recommended to set up desks and tables such that students can move around 
 ## Curriculum Components ##
 
 #### Instructor Guides ####
-Each module has its own Instructor Guide in the form of a Live Script or Word document. These contain all the background information, course preparation, and lesson plans for the activities to cover with the students. Be sure to read them carefully as they contain the basic information you need to teach each module successfully. 
+Each module has its own Instructor Guide in the form of a Live Script or PDF document. These contain all the background information, course preparation, and lesson plans for the activities to cover with the students. Be sure to read them carefully as they contain the basic information you need to teach each module successfully. 
 _Tip: To effectively navigate the Instructor Guides, you can make use of the Table of Contents at the top._
 
 #### Student Live Scripts ####
