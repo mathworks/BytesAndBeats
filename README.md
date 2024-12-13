@@ -46,6 +46,7 @@ It is recommended to set up desks and tables such that students can move around 
 
 #### Instructor Guides ####
 Each module has its own Instructor Guide in the form of a Live Script or PDF document. These contain all the background information, course preparation, and lesson plans for the activities to cover with the students. Be sure to read them carefully as they contain the basic information you need to teach each module successfully. 
+
 _Tip: To effectively navigate the Instructor Guides, you can make use of the Table of Contents at the top._
 
 #### Student Live Scripts ####
@@ -58,7 +59,7 @@ While you use the Instructor Guides to direct the modules, students will be open
 They will follow along with these and are not given a set of Instructor Guides.
 
 #### Student Worksheets and Handouts ####
-Included are worksheets and handouts that students fill out to reinforce concepts, the modules indicate when to print/distribute each worksheet. Handouts contain a list of vocabulary and common MATLAB commands the students need in the course. Encourage the students to refer to the handouts throughout the course. The 'Materials' section in each activity lists the Worksheets and/or Handouts required for that activity.
+Included are worksheets and handouts that students fill out to reinforce concepts, the modules indicate when to print/distribute each worksheet. Handouts contain a list of vocabulary and common MATLAB commands the students need in the course. Encourage the students to refer to the handouts throughout the course. The 'Materials' section in each activity lists the worksheets and/or handouts required for that activity.
 
 ## Installing the Bytes and Beats Toolbox and Materials ##
 
@@ -76,6 +77,7 @@ Within the Command Window, next to the >> symbol, enter the following:
  >> setupBnB
 ``` 
 This will start installing the course toolbox and the audio files.
+
 _Note: This could take several minutes to complete. You only need to run ‘setupBnB.m’ once to install the course toolbox and the audio files._
 
 There will be a message within the Command Window when all of the audio files are done installing.
